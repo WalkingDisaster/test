@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dte-e2-dev-csva-sync-app" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\src\\dte\\test\\test\\test\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
